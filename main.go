@@ -40,6 +40,7 @@ func quadSolver (a, b, c float64)  {
 }
 
 func main() {
+	fmt.Println("This is a quadratic equation solver")
 	var a, b, c float64
 
 	fmt.Println("Enter the value of a: ")
